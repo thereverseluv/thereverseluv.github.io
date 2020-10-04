@@ -27,6 +27,6 @@ font-family: "Flaticon";
 	font-style: normal;
 }
 
-.flaticon-reception-bell:before { content: "\f100"; }
-.flaticon-wedding:before { content: "\f101"; }
-.flaticon-bachelorette-party:before { content: "\f102"; }
+.flaticon-birthday-cake:before { content: "\f100"; }
+.flaticon-food:before { content: "\f101"; }
+.flaticon-dinner:before { content: "\f102"; }
